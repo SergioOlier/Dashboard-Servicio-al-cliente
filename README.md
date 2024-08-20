@@ -1,6 +1,6 @@
-#Dashboard-Servicio-al-cliente
+# Dashboard-Servicio-al-cliente
 
-#####Este proyecto es un dashboard de servicio al cliente realizado en PowerBI
+##### Este proyecto es un dashboard de servicio al cliente realizado en PowerBI
 Aquí encontraran información grafica sobre:
 - El total de atención por area
      1. _Ventas_
